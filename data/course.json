@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "89fc5df8-6006-db3f-1702-6cbd65f1f043",
+      "e6b4b2a7-ed52-2153-4dcc-09b2387c71a3",
+      "b5f54e9a-cf17-68eb-f4fa-e7e2cc4cb99f",
+      "7f7c9400-23e5-0117-b556-ac663c45cb26"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Genetics",
+  "course_description": "This course discusses the principles of genetics with application to the study of biological function at the level of molecules, cells, and multicellular organisms, including humans. The topics include: structure and function of genes, chromosomes and genomes, biological variation resulting from recombination, mutation, and selection, population genetics, use of genetic methods to analyze protein function, gene regulation and inherited disease.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.03",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
